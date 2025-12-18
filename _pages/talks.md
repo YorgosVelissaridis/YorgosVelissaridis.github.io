@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Talks"
 layout: gridlay
 sitemap: false
@@ -30,4 +30,4 @@ permalink: /talks/
 <div class="jumbotron">
 ### Regular talks
 {% bibliography --query @incollection[keywords != invited] %}
-</div> -->
+</div>
