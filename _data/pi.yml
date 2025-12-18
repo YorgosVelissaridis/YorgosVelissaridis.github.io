@@ -1,17 +1,16 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Yorgos Velissaridis
+  photo: Velissaridis_photo.jpg
+  info: PhD student at QMUL
+  email: georgiosvelissaridis@gmail.com
+  github: https://github.com/YorgosVelissaridis
+  # researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AElLoL32ndkfJlL5o_N0Zlm2zaguR7QabKDywmDGbb-LyZ6I9MVCHFPAKSj6kAqBB_I6MCPIE2QdbYt7SLYc1J_lzdKv&user=UTRhS-YAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2021) MA in Music Studies, University of Athens",
     ]
 
-  educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+  # educationshort:
+  #   ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
