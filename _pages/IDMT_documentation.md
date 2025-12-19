@@ -121,7 +121,7 @@ Video: Instrument presentation <br/>
 
 <br/><br/>
 <h3>Project Report</h3>
-<p>You can read the full documentation in the PDF below:</p>
+<p>You can read the technical report below:</p>
 <a href="{{ site.url }}{{ site.baseurl }}/files/IDMT_technical_report.pdf" target="_blank" class="btn btn-primary">
   Download Full PDF
 </a>
