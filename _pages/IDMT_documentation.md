@@ -103,6 +103,11 @@ Music performance options and the Sequential Drum <br/>
 
 <br/><br/><br/>
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/console_output.png" width="100%" style="max-width: 600px;"/><br/>
+Sample of console output <br/>
+
+<br/><br/><br/>
+
 <iframe src="https://www.youtube.com/embed/WGsLvkVAowc" 
         title="YouTube video player" 
         frameborder="0" 
